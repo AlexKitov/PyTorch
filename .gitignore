@@ -1,6 +1,8 @@
 *.ipynb_checkpoints/
 *data/
 
+*.idea
+
 *.jpg
 
 *.jpeg
