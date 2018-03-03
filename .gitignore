@@ -1,2 +1,8 @@
 *.ipynb_checkpoints/
 */data/
+
+*.jpg
+
+*.jpeg
+
+*.gif
